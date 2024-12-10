@@ -186,8 +186,6 @@ nav a:hover {
           <img src="/images/manoj.jpg" alt="Kadambala Manoj" class="w-full h-64 object-cover rounded-t-lg" />
           <div class="mt-4">
             <h2 class="text-xl font-bold text-green-600">Kadambala Manoj</h2>
-            <p class="text-gray-700 font-semibold">Principal & Creative Director</p>
-            <p class="text-gray-600 mt-2">An avid runner, he pretty much keeps Brooks Running Shoes in business.</p>
             <div class="mt-4 text-gray-600 space-y-2">
               <p>
                 <i class="fab fa-linkedin text-blue-600 mr-2"></i>
@@ -199,11 +197,11 @@ nav a:hover {
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="mailto:manoj@example.com" class="hover:underline">manoj@example.com</a>
+                <a href="manojkadambala2005@gmail.com" class="hover:underline">manojkadambala2005@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
-                <a href="tel:+1234567890" class="hover:underline">+123-456-7890</a>
+                <a href="7207090087" class="hover:underline">7207090087</a>
               </p>
             </div>
           </div>
@@ -214,24 +212,22 @@ nav a:hover {
           <img src="/images/mhk1.jpg" alt="Kadambala Mahesh" class="w-full h-64 object-cover rounded-t-lg" />
           <div class="mt-4">
             <h2 class="text-xl font-bold text-green-600">Kadambala Mahesh</h2>
-            <p class="text-gray-700 font-semibold">Principal & Managing Partner</p>
-            <p class="text-gray-600 mt-2">His determination comes from years of eating poutine and skiing Goat’s Eye.</p>
             <div class="mt-4 text-gray-600 space-y-2">
               <p>
                 <i class="fab fa-linkedin text-blue-600 mr-2"></i>
-                <a href="https://www.linkedin.com/in/mahesh" target="_blank" rel="noopener noreferrer" class="hover:underline">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/kadambala-mahesh-3bab40284/" target="_blank" rel="noopener noreferrer" class="hover:underline">LinkedIn</a>
               </p>
               <p>
                 <i class="fab fa-instagram text-pink-500 mr-2"></i>
-                <a href="https://www.instagram.com/mahesh" target="_blank" rel="noopener noreferrer" class="hover:underline">Instagram</a>
+                <a href="https://www.instagram.com/mahesh.k_28/" target="_blank" rel="noopener noreferrer" class="hover:underline">Instagram</a>
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="mailto:mahesh@example.com" class="hover:underline">mahesh@example.com</a>
+                <a href="kadambalamahesh3@gmail.com" class="hover:underline">kadambalamahesh3@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
-                <a href="tel:+1234567891" class="hover:underline">+123-456-7891</a>
+                <a href="8019262630" class="hover:underline">8019262630</a>
               </p>
             </div>
           </div>
@@ -242,24 +238,22 @@ nav a:hover {
           <img src="/images/yes.jpg" alt="D D S Yeswanth" class="w-full h-64 object-cover rounded-t-lg" />
           <div class="mt-4">
             <h2 class="text-xl font-bold text-green-600">D D S Yeswanth</h2>
-            <p class="text-gray-700 font-semibold">Digital Project Manager</p>
-            <p class="text-gray-600 mt-2">A University of Kansas alum, he has a fondness for all things KC.</p>
             <div class="mt-4 text-gray-600 space-y-2">
               <p>
                 <i class="fab fa-linkedin text-blue-600 mr-2"></i>
-                <a href="https://www.linkedin.com/in/yeswanth" target="_blank" rel="noopener noreferrer" class="hover:underline">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/d-s-s-yaswant-508b69252/" target="_blank" rel="noopener noreferrer" class="hover:underline">LinkedIn</a>
               </p>
               <p>
                 <i class="fab fa-instagram text-pink-500 mr-2"></i>
-                <a href="https://www.instagram.com/yeswanth" target="_blank" rel="noopener noreferrer" class="hover:underline">Instagram</a>
+                <a href="#" rel="noopener noreferrer" class="hover:underline">Instagram</a>
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="mailto:yeswanth@example.com" class="hover:underline">yeswanth@example.com</a>
+                <a href="dssyaswant@gmail.com" class="hover:underline">dssyaswant@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
-                <a href="tel:+1234567892" class="hover:underline">+123-456-7892</a>
+                <a href="7989780057" class="hover:underline">7989780057</a>
               </p>
             </div>
           </div>
