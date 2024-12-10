@@ -11,7 +11,7 @@
     <groupId>com.sai.jfsd</groupId>
     <artifactId>Election</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Election</name>
     <description>My SDP</description>
 
